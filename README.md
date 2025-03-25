@@ -26,7 +26,7 @@ This project processes an input text file by summarizing its content, extracting
 
 ## Tech Stack
 
-- **Programming Language**: Python 🐍
+- *Programming Language**: Python 🐍
 - **Libraries Used**:
   - **NLTK** (Natural Language Toolkit) - for natural language processing tasks like tokenization, summarization, and entity extraction.
   - **NetworkX** - for graph-based visualization of relationships.
