@@ -49,10 +49,6 @@ To get started with this project, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-4. Install dependencies:
-      bash
-   pip install numpy
-       
 
 ## Usage
 
