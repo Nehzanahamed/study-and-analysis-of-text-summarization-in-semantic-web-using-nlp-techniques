@@ -81,9 +81,8 @@ To create the README file on GitHub, follow these steps:
 3. Paste the content above into the file, customizing it where necessary (e.g., repository name, contact info).
 4. Commit the file to your repository.
 
-   # Force language classificatin
-   *.js linguist-language=python
 
-Let me know if you need any further modifications or clarifications!
+
+# Let me know if you need any further modifications or clarifications!
 
 
