@@ -1,6 +1,4 @@
-Thanks for the detailed information! Based on the description you've provided, here's a complete README file tailored for your GitHub project:
 
----
 
 # Text Summarization and Graph-Based Relationship Extraction
 
