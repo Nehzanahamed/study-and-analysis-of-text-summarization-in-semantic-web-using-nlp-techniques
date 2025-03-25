@@ -1,6 +1,4 @@
 
-# DETAILED SPECIFICATION OF THIS PROJECT
-
 # Text Summarization and Graph-Based Relationship Extraction
 
 This project takes an input text file, summarizes its content, extracts relationships between key entities, and visualizes the summarized information as a graph. It utilizes NLTK for natural language processing and NetworkX/Graphviz for visualization.
@@ -51,6 +49,10 @@ To get started with this project, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+4. Install dependencies:
+      bash
+   pip install numpy
+       
 
 ## Usage
 
