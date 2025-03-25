@@ -18,3 +18,30 @@ Libraries Used:
 NLTK (Natural Language Toolkit)
 NetworkX (Graph visualization)
 Matplotlib/Graphviz (Optional, for enhanced visualization)
+
+
+📥 Installation
+Clone the repository:
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+
+Install dependencies:
+pip install -r requirements.txt
+
+
+▶️ Usage
+Place your input text file inside the data/ folder.
+Run the main script:
+python main.py
+
+
+🔄 Project Workflow
+Text Processing – Cleans and tokenizes text.
+Summarization – Extracts key information.
+Relationship Extraction – Identifies relationships between entities.
+Graph Construction – Represents extracted relationships visually.
+
+
+
+📜 License
+This project is licensed under the MIT License.
