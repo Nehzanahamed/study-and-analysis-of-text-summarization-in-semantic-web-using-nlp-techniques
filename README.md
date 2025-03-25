@@ -1,4 +1,5 @@
 
+# DETAILED SPECIFICATION OF THIS PROJECT
 
 # Text Summarization and Graph-Based Relationship Extraction
 
